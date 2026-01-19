@@ -6,7 +6,7 @@ A Raspberry Pi-based autonomous robot that detects handwritten digits (0-4) usin
 
 
 
-!\[Robot Demo](assets/demo.gif)
+![Robot Demo](assets/demo.gif)
 
 
 
